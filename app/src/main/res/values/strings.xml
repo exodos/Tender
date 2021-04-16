@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tender</string>
+    <string name="have_account">Already Have An Account?</string>
+    <string name="person">Person</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="or">OR</string>
+    <string name="google_login">Google Login</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="no_account">No Account? Register Now</string>
+    <string name="new_user">New User ? Please Register</string>
+    <string name="user_name">User Name</string>
+    <string name="register">Register</string>
+    <string name="social_network">Login with Social Network</string>
+    <string name="register_with_social_network">Register With Social Network</string>
+    <string name="have_an_account_login">Have An Account? Login</string>
+</resources>
